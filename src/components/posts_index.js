@@ -20,7 +20,6 @@ class PostsIndex extends Component {
   }
 
   render() {
-    console.log(this.props);
     return(
       <div>
         <h3>Posts</h3>
